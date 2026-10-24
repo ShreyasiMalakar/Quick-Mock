@@ -1,0 +1,17 @@
+{
+  "name": "QuickQuiz AI - Timed Mock Test Generator",
+  "short_name": "QuickQuiz AI",
+  "description": "Generate intelligent timed mock tests from PDFs, PPTs, or text notes with adaptive difficulty, live countdown timers, and deep performance analytics.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

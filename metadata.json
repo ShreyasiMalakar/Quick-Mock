@@ -1,0 +1,6 @@
+{
+  "name": "QuickQuiz AI - Timed Mock Test Generator",
+  "description": "Generate intelligent timed mock tests from PDFs, PPTs, or text notes with adaptive difficulty, live countdown timers, and deep performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
